@@ -1,4 +1,4 @@
-# Weather Tracker App
+# Weather Tracker
 
 A simple and interactive **Streamlit** application that allows users to fetch, compare, and download current weather data for multiple cities using the **OpenWeatherMap API**. It includes visualizations, downloadable reports (CSV, TXT, PDF), and clean user interface elements for easy use.
 
